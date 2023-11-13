@@ -46,3 +46,19 @@
 .card-body{
     justify-content: center;
 }
+
+.categories{
+    margin-bottom: 100px;
+}
+img{
+    overflow: hidden;
+     
+}
+
+.category-img{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 100px;
+    width: auto;
+
+}
